@@ -20,7 +20,7 @@ This project contains the solutions for **Lab 1**, which focuses on fundamental 
 - Demonstrated cloning the list.
 - Verified that modifying the original list does not affect the cloned list.
 
-## ▶ How to Run
+##  How to Run
 1. Open the project in **IntelliJ IDEA**.
 2. Navigate to `Main.java`.
 3. Run the `main` method to see the output for all exercises.
